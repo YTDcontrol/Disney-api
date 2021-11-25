@@ -56,16 +56,11 @@ In order to test all the requests available , there's a **Postman** Collection t
 https://documenter.getpostman.com/view/18438456/UVJYLzEv
 
 
+|Username |Password |Privileges |
+|---------|---------|-----------|
+|Admin3   |admin321 |Admin      |
+|Mati     |Mati123  |User       |
 
-username: Admin3
-password: admin321
-```
-User for tests:
-```
-
-username: Mati
-password: Mati123
-```
 
 
 ##  Author 
