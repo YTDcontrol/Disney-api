@@ -11,7 +11,7 @@ const {
 } = require('sequelize');
 
 // Setup email engine
-sgMail.setApiKey("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");
+sgMail.setApiKey("SENDGRID_API_KEY");
 
 exports.login = (req, res) => {
     const {
